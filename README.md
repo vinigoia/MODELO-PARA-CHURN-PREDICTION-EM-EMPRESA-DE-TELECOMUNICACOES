@@ -8,7 +8,7 @@ width="70%"</p>
 
 Análise de Dados públicos disponibilizados pela plataforma de ensino da IBM Developer e avaliação de Modelos de Machine Learning.
 
-[Link para o projeto completo](https://github.com/vinigoia/DETECCAO-DE-FRAUDES-BANCARIAS/blob/main/Modelo_para_Detec%C3%A7%C3%A3o_de_Fraudes_Banc%C3%A1rias_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+[Link para o projeto completo](https://github.com/vinigoia/MODELO-PARA-CHURN-PREDICTION-EM-EMPRESA-DE-TELECOMUNICACOES/blob/main/Modelo_para_Churn_Prediction_em_Empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 
 **Links para me acharem:**
 
